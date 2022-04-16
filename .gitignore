@@ -107,3 +107,6 @@ $RECYCLE.BIN/
 *.filters
 *.cache
 *.TMP
+
+.vs
+/make/out
